@@ -36,7 +36,7 @@ class MyHome extends StatelessWidget {
         backgroundColor: Colors.green[800],
       ),
       body: Container(
-        color: Colors.green[800],
+        color: const Color.fromARGB(255, 102, 175, 106),
         margin: EdgeInsets.zero,
         padding: EdgeInsets.all(20),
         height: 300.0,
